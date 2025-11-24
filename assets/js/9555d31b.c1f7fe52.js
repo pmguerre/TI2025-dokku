@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdokku=globalThis.webpackChunkdokku||[]).push([[6265],{616:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/TI2025-dokku/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
