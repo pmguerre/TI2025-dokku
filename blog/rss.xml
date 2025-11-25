@@ -4,10 +4,20 @@
         <title>Dokku Blog</title>
         <link>https://github.com/TI2025-dokku/blog</link>
         <description>Dokku Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Nov 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Exemplo de um Blog]]></title>
+            <link>https://github.com/TI2025-dokku/blog/nosso-post</link>
+            <guid>https://github.com/TI2025-dokku/blog/nosso-post</guid>
+            <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Esta semana vimos como construir sites estáticos com o Docusaurus]]></description>
+            <content:encoded><![CDATA[<p>Esta semana vimos como construir sites estáticos com o Docusaurus</p>]]></content:encoded>
+            <category>ADC</category>
+            <category>Exemplo</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://github.com/TI2025-dokku/blog/welcome</link>
